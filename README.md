@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on website dev
+- 🌱 I’m currently learning computer science
+- 👯 I’m looking to collaborate on github
+- 🤔 I’m looking for help with people
+
 <!--
 **elihugyh/elihugyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
